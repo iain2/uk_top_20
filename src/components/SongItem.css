@@ -1,0 +1,10 @@
+li {
+
+    padding: 5px;
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: gray;
+    max-width: 500px;
+
+}
